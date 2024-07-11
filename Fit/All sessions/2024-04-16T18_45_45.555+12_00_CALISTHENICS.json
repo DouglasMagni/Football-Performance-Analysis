@@ -1,0 +1,21 @@
+{
+  "fitnessActivity": "calisthenics",
+  "startTime": "2024-04-16T06:45:45.555Z",
+  "endTime": "2024-04-16T06:57:24.784Z",
+  "duration": "699.229s",
+  "segment": [{
+    "fitnessActivity": "calisthenics",
+    "startTime": "2024-04-16T06:45:45.555Z",
+    "endTime": "2024-04-16T06:57:24.784Z"
+  }],
+  "aggregate": [{
+    "metricName": "com.google.heart_minutes.summary",
+    "floatValue": 11.0
+  }, {
+    "metricName": "com.google.calories.expended",
+    "floatValue": 161.8000030517578
+  }, {
+    "metricName": "com.google.active_minutes",
+    "intValue": 11
+  }]
+}

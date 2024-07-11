@@ -1,0 +1,15 @@
+{
+  "fitnessActivity": "calisthenics",
+  "startTime": "2024-05-28T19:45:50.496Z",
+  "endTime": "2024-05-28T19:46:13.262Z",
+  "duration": "22.766s",
+  "segment": [{
+    "fitnessActivity": "calisthenics",
+    "startTime": "2024-05-28T19:45:50.496Z",
+    "endTime": "2024-05-28T19:46:13.262Z"
+  }],
+  "aggregate": [{
+    "metricName": "com.google.calories.expended",
+    "floatValue": 1.7999999523162842
+  }]
+}
