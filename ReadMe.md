@@ -7,11 +7,11 @@
 ## ✔️  Data Sources:
 
 ### Step Counter App:
-#### I use a step counter app called Padometer on my phone, which syncs data to Google Fit. From Google Fit, I export my daily step counts in JSON format.
+* I use a step counter app called Padometer on my phone, which syncs data to Google Fit. From Google Fit, I export my daily step counts in JSON format.
 
 ###  Football Performance Data:
 
-#### I maintain a CSV file that tracks my weekly football performance. This file includes metrics such as goals scored, assists, team wins, and whether it was a football day.
+* I maintain a CSV file that tracks my weekly football performance. This file includes metrics such as goals scored, assists, team wins, and whether it was a football day.
 
 ## ✔️ Questions Explored:
 
