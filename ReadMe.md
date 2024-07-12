@@ -17,15 +17,15 @@
 
 ###  Correlation Analysis:
 
-### ❔❔ 1 - Is there a relationship between the weekly steps total and the week's football performance? If so, how strong is it?
+### ❔ 1 - Is there a relationship between the weekly steps total and the week's football performance? If so, how strong is it? 
 
 * I found a strong positive correlation between weekly steps and metrics like goals scored and team wins.
 
-### ❔❔ 2 - Is there a relationship between the total steps on the football day and the football performance? If so, how strong is it?
+### ❔ 2 - Is there a relationship between the total steps on the football day and the football performance? If so, how strong is it? 
 
 * There is a moderate to strong positive correlation between steps on football days and metrics like goals scored, assists, and team wins.
 
-### ❔❔ 3 - Which has a stronger correlation to my football performance: total steps on football days or total steps per week?
+### ❔ 3 - Which has a stronger correlation to my football performance: total steps on football days or total steps per week? 
 
 * Total steps per week generally showed stronger correlations with metrics like goals scored and team wins. However, for assists, total steps on football days exhibited a stronger correlation.
 
