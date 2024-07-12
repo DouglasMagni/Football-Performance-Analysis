@@ -1,4 +1,4 @@
-# ⚽⚽⚽ Football Performance Analysis Project ⚽⚽⚽
+# ⚽⚽⚽ Football Performance Analysi ⚽⚽⚽
 
 ## ✔️ Project Overview
 
