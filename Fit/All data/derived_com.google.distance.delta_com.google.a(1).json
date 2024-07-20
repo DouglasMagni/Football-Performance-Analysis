@@ -1,6 +1,0 @@
-{
-    "Data Source": "derived:com.google.distance.delta:com.google.android.gms:from_high_accuracy_location\u003c-derived:com.google.location.sample:com.google.android.gms:merge_high_fidelity",
-    "Data Points": [
-        {"fitValue":[{"value":{"fpVal":4.662995331576547}}],"originDataSourceId":"derived:com.google.location.sample:com.google.android.apps.fitness:app_location","endTimeNanos":1720643925471000000,"dataTypeName":"com.google.distance.delta","startTimeNanos":1720643903948000000,"modifiedTimeMillis":1720648233162,"rawTimestampNanos":0}
-    ]
-}
